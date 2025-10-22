@@ -13,7 +13,7 @@ To program the **STM32L0 series** microcontroller in this device using the **Ard
 
 ### Board Configuration  
 - **Board:** Generic STM32L0 Series  
-- **Board Part Number:** Generic L082CZTx  
+- **Board Part Number:** Generic L072CZTx  
 - **U(S)ART Support:** Enabled (Generic Serial)  
 
 ### Required Setup Steps  
