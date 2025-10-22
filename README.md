@@ -54,7 +54,7 @@ Below are example configurations and board details for uploading code to the STM
 ![Upload Details](images/upload_details.png)
 
 ### STM32 Board Details  
-![STM32 Board Details](images/stm32_board_details.png)
+![STM32 Board Details](images/stem32_board_details.png)
 
 *(Ensure both images are placed inside an `/images` folder in your repository.)*
 
