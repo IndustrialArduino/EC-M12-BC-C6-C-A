@@ -67,7 +67,7 @@ Below are example configurations and board details for uploading code to the STM
 ---
 
 ## ⚙️ Technical Highlights  
-- STM32L082CZTx ARM Cortex-M0+ microcontroller  
+- STM32L072CZTx ARM Cortex-M0+ microcontroller  
 - NB-IoT connectivity  
 - Battery-powered operation (IP67 enclosure)  
 - Ultra-low power consumption  
