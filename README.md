@@ -76,4 +76,4 @@ Below are example configurations and board details for uploading code to the STM
 ---
 
 ## 📧 Support  
-For technical support or additional documentation, visit [norvi.io](https://norvi.io) or contact the Norvi support team.
+For technical support or additional documentation, please visit the [Norvi Support Page](https://norvi.io/contact-us/).
