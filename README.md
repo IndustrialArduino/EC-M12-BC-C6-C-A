@@ -77,11 +77,5 @@ Below are example configurations and board details for uploading code to the STM
 
 ---
 
-## 🧾 License  
-This project is released under the **MIT License**.  
-Please see the [LICENSE](LICENSE) file for more information.
-
----
-
 ## 📧 Support  
 For technical support or additional documentation, visit [norvi.io](https://norvi.io) or contact the Norvi support team.
